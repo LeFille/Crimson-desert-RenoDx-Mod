@@ -11,7 +11,7 @@ Enjoy sharper textures, more realistic lighting, better shadows, enhanced foliag
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - **Advanced RenoDX Preset** — Optimized for Crimson Desert
 - **Realistic Lighting & Shadows** — Improved global illumination and soft shadows
